@@ -34,7 +34,7 @@ In CRM environments, this often appears as:
 - Managers identifying risk only during review meetings
 - Sales reps updating data after action, not before
 
-These behaviors are not discipline problems—they are outcomes of systems that do not actively guide execution.
+These behaviors are not discipline problems-they are outcomes of systems that do not actively guide execution.
 
 ---
 
@@ -48,7 +48,7 @@ Instead of asking sellers to interpret dashboards, the system continuously evalu
 - Missed commitments
 - Buyer engagement consistency
 
-From these signals, the CRM surfaces which deals require attention and where risk is accumulating—before outcomes are impacted.
+From these signals, the CRM surfaces which deals require attention and where risk is accumulating-before outcomes are impacted.
 
 This approach transforms CRM from a passive record system into an active decision layer.
 
